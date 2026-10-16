@@ -82,3 +82,8 @@ The first start takes a few minutes because Vaadin downloads its frontend tools.
 
 ### Delete a customer
 ![Delete customer](doc/06-delete-customer.png)
+
+## Contributors
+
+- Mohamed Ayad – author
+- Assil – reviewed the project and improved the documentation
